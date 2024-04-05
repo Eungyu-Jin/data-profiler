@@ -1,4 +1,4 @@
-# data-validator
+# data-profiler
 
 custom 데이터 검증 모듈, tfdv 데이터 검증 테스트
 
