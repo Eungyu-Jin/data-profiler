@@ -2,10 +2,10 @@
 
 custom 데이터 검증 모듈, tfdv 데이터 검증 테스트
 
-### variable
+### tensor
 데이터셋 변수 저장, Tensor 정의
 
-### validation
+### validator
 1. DataInfer
   - 데이터 추론
   - 데이터 추론 결과 report -> json
